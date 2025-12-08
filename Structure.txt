@@ -1,0 +1,15 @@
+ENFU ANALYTICS PROJECT STRUCTURE (INITIAL)
+
+app/
+  ui/
+  api/
+  services/
+  database/
+  utils/
+
+docs/
+  requirements.md
+  roadmap.md
+
+.gitignore
+README.md
