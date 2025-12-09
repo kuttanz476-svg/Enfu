@@ -1,5 +1,4 @@
-fastapi
-uvicorn
-pydantic
+Flask
+gunicorn
+flask-limiter
 python-dotenv
-requests
