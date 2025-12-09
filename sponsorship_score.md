@@ -23,3 +23,4 @@ The score is calculated using four components:
    - Keyword matching between creator niche and sponsor niche.
 
 # Final Formula
+Return score: 0–100.
